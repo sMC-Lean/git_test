@@ -1,2 +1,6 @@
 adding text as per instructions;
 this will now be staged for commit;
+text;
+text;
+testing;
+text;
